@@ -1,0 +1,19 @@
+
+
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    
+}
+#Highlight-name{
+    color: orange;
+}
+.picture{
+    width : 60%
+}
+.top-side{
+    width : 40%;
+    float: left;
+}
